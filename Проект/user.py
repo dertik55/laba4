@@ -1,0 +1,6 @@
+name = input("Введите ваше имя: ")
+years = input("Введите ваш возраст: ")
+mestjit = input("Введите ваше место жительства: ")
+print("This is", name)
+print("It is", years)
+print("(S)he live in", mestjit)
